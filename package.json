@@ -1,0 +1,21 @@
+{
+  "name": "nehuba-leap-controls",
+  "description": "Control the Nehuba Neuroglancer wrapper with the Leap Motion Controller.",
+  "scripts": {
+    "build-min": "webpack --config ./config/webpack.min.js",
+    "build": "webpack --config ./config/webpack.config.js",
+    "dev-server": "webpack-dev-server --config ./config/webpack.config.js"
+  },
+  "dependencies": {
+    "@reactivex/rxjs": "^5.4.3",
+    "neuroglancer": "^0.0.0-beta.0",
+    "webpack": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.47",
+    "tslint": "^5.8.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "typescript": "2.4",
+    "webpack-dev-server": "^2.2.0"
+  }
+}

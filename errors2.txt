@@ -1,0 +1,192 @@
+    ERROR in ../neuroglancer/src/neuroglancer/widget/point_list_widget.ts
+    (28,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/point_list_widget.ts
+    (29,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/annotation/user_layer.ts
+    (25,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/vec3_entry_widget.ts
+    (23,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/vector_graphics_user_layer.ts
+    (33,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/vector_graphics_user_layer.ts
+    (34,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/vector_graphics_user_layer.ts
+    (35,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../nehuba/src/nehuba/Rx.ts
+    (1,28): error TS2307: Cannot find module '@reactivex/rxjs/dist/cjs/Observable'.
+    
+    ERROR in ../nehuba/src/nehuba/Rx.ts
+    (3,16): error TS2664: Invalid module name in augmentation, module '@reactivex/rxjs/dist/cjs/Observable' cannot be found.
+    
+    ERROR in ../nehuba/src/nehuba/internal/tools.ts
+    (4,37): error TS2307: Cannot find module '@reactivex/rxjs'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/single_mesh/frontend.ts
+    (40,24): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/single_mesh_user_layer.ts
+    (17,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/lodash/debounce"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/single_mesh_user_layer.ts
+    (29,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/ui/url_hash_binding.ts
+    (17,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/lodash/debounce"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/perspective_view/panel.ts
+    (32,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/perspective_view/panel.ts
+    (33,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/position_status_panel.ts
+    (21,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/layer_panel.ts
+    (23,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/sortablejs/index"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/layer_panel.ts
+    (25,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/layer_panel.ts
+    (26,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/autocomplete.ts
+    (17,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/lodash/debounce"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/autocomplete.ts
+    (31,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/layer_dialog.ts
+    (26,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/help/key_bindings.ts
+    (20,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/viewer.ts
+    (17,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/lodash/debounce"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/viewer.ts
+    (44,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/viewer.ts
+    (45,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/viewer.ts
+    (46,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/default_viewer.ts
+    (17,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/uint64_entry_widget.ts
+    (22,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/uint64_entry_widget.ts
+    (23,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/segment_set_widget.ts
+    (21,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/segment_set_widget.ts
+    (22,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/segmentation_user_layer.ts
+    (42,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/segmentation_user_layer.ts
+    (43,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/shader_code_widget.ts
+    (19,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/codemirror/index"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/shader_code_widget.ts
+    (20,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/lodash/debounce"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/shader_code_widget.ts
+    (27,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/shader_code_widget.ts
+    (28,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/shader_code_widget.ts
+    (29,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/shader_code_widget.ts
+    (30,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/range.ts
+    (21,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/sliceview/volume/image_renderlayer.ts
+    (33,24): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/overlay.ts
+    (22,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/status.ts
+    (17,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/widget/scale_bar.ts
+    (35,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/rendered_data_panel.ts
+    (24,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/skeleton/frontend.ts
+    (40,24): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/image_user_layer.ts
+    (30,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/image_user_layer.ts
+    (31,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/image_user_layer.ts
+    (32,1): error TS2304: Cannot find name 'require'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/worker_rpc.ts
+    (24,19): error TS2304: Cannot find name 'WORKER'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/layer.ts
+    (17,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/lodash/debounce"' has no default export.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/layer.ts
+    (18,8): error TS1192: Module '"/home/users/ataheri/repos/neuroglancer/node_modules/@types/lodash/throttle"' has no default export.
+    
+    ERROR in ../nehuba/src/nehuba/NehubaViewer.ts
+    (17,48): error TS2307: Cannot find module '@reactivex/rxjs'.
+    
+    ERROR in /home/users/ataheri/repos/nehuba-leap-controls/typings/index.d.ts
+    (1,22): error TS6053: File '/home/users/ataheri/repos/nehuba-leap-controls/node_modules/neuroglancer/typings/index.d.ts' not found.
+
+    ERROR in ../neuroglancer/src/neuroglancer/datasource/csv/backend.ts
+    (24,23): error TS2304: Cannot find name 'TextDecoder'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/datasource/nifti/backend.ts
+    (28,79): error TS2307: Cannot find module 'nifti-reader-js'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/datasource/vtk/parse.ts
+    (62,21): error TS2304: Cannot find name 'TextDecoder'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/datasource/vtk/parse.ts
+    (215,21): error TS2304: Cannot find name 'TextDecoder'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/util/npy.ts
+    (113,22): error TS2304: Cannot find name 'TextDecoder'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/sliceview/decode_jpeg_stack.ts
+    (17,27): error TS2307: Cannot find module 'jpgjs'.
+    
+    ERROR in ../neuroglancer/src/neuroglancer/worker_rpc.ts
+    (24,19): error TS2552: Cannot find name 'WORKER'. Did you mean 'Worker'?
+    
+    ERROR in /home/users/ataheri/repos/nehuba-leap-controls/typings/index.d.ts
+    (1,22): error TS6053: File '/home/users/ataheri/repos/nehuba-leap-controls/node_modules/neuroglancer/typings/index.d.ts' not found.
+
