@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@reactivex/rxjs": "^5.4.3",
+    "leapjs": "^0.6.4",
     "neuroglancer": "^0.0.0-beta.0",
     "webpack": "^3.4.1"
   },
