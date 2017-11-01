@@ -62,12 +62,7 @@ export const config : Config = {
         },
         "zoomFactor": 563818.35624262
       },
-      "perspectiveOrientation": [
-        0.31407672166824,
-        -0.74185198545456,
-        0.49889850616455,
-        -0.3195493221283
-      ],
+      "perspectiveOrientation": [ 1, 0, 0, -1 ],
       "perspectiveZoom": 1922235.5293811
     }
   },
